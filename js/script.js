@@ -1,6 +1,6 @@
-// const music = document.getElementById('playMusic')
-// music.volume=0.09
-// music.play()
+const music = document.getElementById('playMusic')
+music.volume=0.09
+music.play()
 
 const open = document.querySelector(".profile")
 const balon = document.querySelector('.balon')
